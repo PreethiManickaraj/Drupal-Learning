@@ -1,0 +1,26 @@
+CorrelationId: 6328dce4-0544-46a3-92be-8b9806df8893
+UTC DateTime: 10/26/2022 13:03:30
+
+The following files/folders have not been downloaded
+0. core/modules/system/images
+1. core/modules/system/js
+2. core/modules/system/migrations
+3. core/modules/system/src
+4. core/modules/system/templates
+5. core/modules/system/tests
+6. core/modules/taxonomy
+7. core/modules/telephone
+8. core/modules/text
+9. core/modules/toolbar
+10. core/modules/tour
+11. core/modules/tracker
+12. core/modules/update
+13. core/modules/user
+14. core/modules/views
+15. core/modules/views_ui
+16. core/modules/workflows
+17. core/modules/workspaces
+18. core/profiles
+19. core/scripts
+20. core/tests
+21. core/themes
